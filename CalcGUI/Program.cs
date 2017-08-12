@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 /*Name: Sahal Mohamed
  * Student Number: 300895007
- * Lab 26
+ * Description: Lab 27 of COMP123 Section - 001. Adding the remaining functions of the CalculatorForm done in class.
  */
 namespace CalcGUI
 {
